@@ -1,1 +1,1 @@
-# Deep-Generative-Modeling-Theory-and-Application
+# Deep Generative Modeling: Theory and Application
