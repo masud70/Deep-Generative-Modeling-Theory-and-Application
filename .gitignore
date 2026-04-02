@@ -1,5 +1,5 @@
 .venv
 .gpu
 *.jpg
-*.zip
+data.zip
 Assignments/Assignment1/Problem1/Data
